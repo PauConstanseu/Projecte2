@@ -12,3 +12,5 @@ fdhdfhgd
 
 A l'arxiu [solucio.md](/Tasca2/solucio.md) esta la solució descrita.
 
+
+[Tornar a la pàgina del projecte](../)
