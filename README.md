@@ -9,6 +9,6 @@ Cada membre aporta una especialitat diferent —**webs, auditories, sistemes, se
 Van fundar l’empresa amb el compromís de **treballar sempre en equip** i **aprendre de cada projecte**.
 
 
--[Tasca 02](/Tasca2)
+- [Tasca 02](/Tasca2)
 
--[Tasca 03](/Tasca3)
+- [Tasca 03](/Tasca3)
