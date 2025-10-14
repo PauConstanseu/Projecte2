@@ -85,3 +85,11 @@ Per fortificar l’accés desde VirtualBox anirem als paràmetres de la nostra m
 Seguidament anirem on tenim la carpeta amb el disc virtual, farem clic dret a sobre el disc, li donem a propietats i posarem només lectura, així evitem manipulacions del disc.
 
 ![Captura nomes lectura](/Tasca3/img/captura8.png)
+
+
+
+**I això seria tot**
+
+---
+
+[Tornar a la pàgina del projecte](../)
