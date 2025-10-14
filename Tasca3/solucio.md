@@ -1,4 +1,4 @@
-### Recuperant accés a sistemes
+# Recuperant accés a sistemes
 
 ---
 
@@ -30,6 +30,23 @@ Treballarem sobre una còpia del disc d’un portàtil amb Zorin OS dins d’una
 
 Primer de tot crearem una màquina virtual amb el disc ja creat anteriorment.
 ![CreantMV](/Tasca3/img/captura1.png)
+
+
+### Vulnereu l’accés al GRUB del Linux.
+
+Un cop creada, al entrar li donarem ràpidament al shift+qualsevol tecla del teclat i en sortirà un menú, escollirem la segona opció i al següent menu també escollirem la segona opció.
+Llavors ens sortirà aquest menú:
+
+![MenúRoot](/Tasca3/img/captura2.png)
+
+I li donarem a root.
+
+
+Ara ja estarem dins del GRUB.
+
+![Dins del GRUB](/Tasca3/img/captura3.png)
+
+
 
 
 
