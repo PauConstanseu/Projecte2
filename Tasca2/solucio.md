@@ -101,18 +101,4 @@ Tots compleixen amb els requisits mínims de potència i autonomia, però **el R
 
 ---
 
-## Estructura del document
-
-1. Introducció  
-2. Índex  
-3. Inventari d’equips  
-4. Càlcul de potència total amb 20% de marge  
-5. Determinació de l’autonomia  
-6. Recerca de models de SAI  
-7. Informe tècnic
-
-
-
-
 [Tornar a la pàgina del projecte](../)
-
