@@ -24,6 +24,13 @@ Treballarem sobre una còpia del disc d’un portàtil amb Zorin OS dins d’una
 
 3.5 Configura la màquina virtual per tal de fortificar l’accés al GRUB
 
+--
+
+## 3. Guia
+
+Primer de tot crearem una màquina virtual amb el disc ja creat anteriorment.
+![Creant MV](captura1.png)
+
 
 
 
