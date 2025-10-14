@@ -29,7 +29,8 @@ Treballarem sobre una còpia del disc d’un portàtil amb Zorin OS dins d’una
 ## 3. Guia
 
 Primer de tot crearem una màquina virtual amb el disc ja creat anteriorment.
-![Creant MV](captura1.png)
+![CreantMV](captura1.png)
+
 
 
 
