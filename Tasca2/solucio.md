@@ -112,10 +112,7 @@ Tots compleixen amb els requisits mínims de potència i autonomia, però **el R
 7. Informe tècnic
 
 
-## Solució
-
-
-A l'arxiu [solucio.md](/Tasca2/solucio.md) esta la solució descrita.
 
 
 [Tornar a la pàgina del projecte](../)
+
