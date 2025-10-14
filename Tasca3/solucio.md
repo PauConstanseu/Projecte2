@@ -13,11 +13,17 @@ Treballarem sobre una còpia del disc d’un portàtil amb Zorin OS dins d’una
 1. Introducció
 2. Index
 3. Guia
+
 3.1 Vulnereu l’accés al GRUB del Linux.
+
 3.2 Identifiqueu l’usuari del sistema.
+
 3.3 Modifiqueu la contrasenya de l’usuari i verifiqueu que ara ja té accés.
+
 3.4 Investigueu com es pot fortificar l’accés al GRUB. És molt important que indiquis les fonts d’informació que usis.
+
 3.5 Configura la màquina virtual per tal de fortificar l’accés al GRUB
+
 
 
 
