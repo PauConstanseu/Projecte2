@@ -46,10 +46,42 @@ Ara ja estarem dins del GRUB.
 
 ![Dins del GRUB](/Tasca3/img/captura3.png)
 
+Ara per canviar la contrasenya del compte és molt fàcil i haurem de seguir aquests senzills passos:
 
+### Identifiqueu l’usuari del sistema.
 
+Primer de tot posarem **ls /home** i així en sortirà el nom d’usuari, en aquest cas es diu miquel.
 
+![Comanda ls /home](/Tasca3/img/captura4.png)
 
+### Modifiqueu la contrasenya de l’usuari i verifiqueu que ara ja té accés.
 
+Seguidament posarem la comanda **passwd + el nom d’usuari (en el meu cas miquel)**, i li posarem la nova contrasenya.
 
+![Comanda per canviar contrasenya](/Tasca3/img/captura5.png)
 
+Li he posat hola1234 de contrasenya.
+
+### Investigueu com es pot fortificar l’accés al GRUB. És molt important que indiquis les fonts d’informació que usis.
+
+El que farem per fortificar l’accés al GRUB serà el següent:
+
+Escriurem la comanda **sudo grub-mkpasswd-pbkdf2** i el que ens surti a partir de grub.pbkdf2.sha512… ho copiarem tot.
+
+Un cop copiat entrarem al arxiu **sudo nano /etc/grub.d/40_custom** i l’editarem de la següent manera:
+
+![Editar arxiu](/Tasca3/img/captura6.png)
+
+Afegirem les dues línies i enganxarem el que haviem copiat abans.
+
+Finalment aplicarem els canvis amb la comanda **sudo grub-mkconfig -o /boot/grub/grub.cfg**.
+
+### Configura la màquina virtual per tal de fortificar l’accés al GRUB
+
+Per fortificar l’accés desde VirtualBox anirem als paràmetres de la nostra màquina virtual, anirem a sistema i on posa ordre d’arrencada deixarem només la del disc dur activat.
+
+![Captura VB](/Tasca3/img/captura7.png)
+
+Seguidament anirem on tenim la carpeta amb el disc virtual, farem clic dret a sobre el disc, li donem a propietats i posarem només lectura, així evitem manipulacions del disc.
+
+![Captura nomes lectura](/Tasca3/img/captura8.png)
